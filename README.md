@@ -2,7 +2,7 @@
 
 ![hello there](https://user-images.githubusercontent.com/91583403/218317219-c86bb9db-247b-44a9-a632-9217e36b3731.gif)
 
-#### just getting started in GitHub ✂
+
 
 <!--
 **glennpaulaby/glennpaulaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####Welcome to my GitHub 🙇
-
+### Welcome to my GitHub 🙇
+ 
 
