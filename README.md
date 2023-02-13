@@ -1,4 +1,5 @@
-#### Hello there 👋
+<!--#### Hello there 👋--->
+
 ![hello there](https://user-images.githubusercontent.com/91583403/218317219-c86bb9db-247b-44a9-a632-9217e36b3731.gif)
 
 #### just getting started in GitHub ✂
@@ -17,4 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+####Welcome to my GitHub 🙇
+
 
