@@ -19,8 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my GitHub 🙇
+<!-- ## Welcome to my GitHub 🙇 -->
+
+#### Socials 🐱‍👤
 
 
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glenn-paul-aby-77687a1ba/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@glennpaulaby) 
+
+
+
+
+
+
+
+ <!-- [![](https://visitcount.itsvg.in/api?id=glennpaulaby&icon=2&color=7)](https://visitcount.itsvg.in)-->
 
